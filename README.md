@@ -1,4 +1,5 @@
-### Hi there👋
+<img src="https://drive.google.com/uc?export=view&id=1RiyHpJ7lg-liq6WP2Sq0pK5CqJO5HVX9" alt="Image Description">
+
 
 # 💫 About Me:
 🔭 I’m currently diving deep into the realms of software development and honing my skills in modern programming languages and frameworks.<br>👯 I’m looking to collaborate on open-source projects that push the boundaries of innovative software design and architecture.<br>🤝 I’m looking for help with mastering software engineering principles and patterns to build robust and scalable applications.<br>🌱 I’m currently learning about best practices in software design, agile methodologies, and continuous integration/continuous deployment (CI/CD) pipelines.<br>💬 Ask me about my journey into software engineering, the projects I've undertaken, and the tech stacks I'm familiar with.<br>⚡ Fun fact: I might be debugging by day, but by night, I'm pumping iron and defying the "coder" stereotype one rep at a time!
